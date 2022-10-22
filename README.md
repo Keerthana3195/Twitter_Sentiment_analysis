@@ -2,7 +2,6 @@
 
 In this project the idea was to fetch tweets using Twitter API and then apply the VADER (Valence Aware Dictionary for Sentiment Reasoning) model on the tweets to see their sentiments. 
 
-##### Sentiment Analyis
 Sentiment Analysis is a text analysis method that is used to measure the sentiment or emotions (in terms of positive, negative or neutral) of a whole document, paragraph or a sentence. 
 
 In this repository you will find the two code files and a sample csv file:
